@@ -86,7 +86,7 @@ The report is structured across **7 sections**:
 ## 🔗 Connect
 
 - 🌐 **Organization:** [Maincrafts Technology](https://maincrafts.com)
-- 💼 **LinkedIn:** [Vivek Raj](www.linkedin.com/in/unknownx45) ← *add your LinkedIn profile URL here*
+- 💼 **LinkedIn:** [Vivek Raj](https://www.linkedin.com/in/unknownx45/)
 
 ---
 
