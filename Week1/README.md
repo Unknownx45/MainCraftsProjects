@@ -85,9 +85,10 @@ The report is structured across **7 sections**:
 
 ## 🔗 Connect
 
-- 🌐 **Organization:** [Maincrafts Technology](https://www.maincrafts.com)
-- 💼 **LinkedIn:** [Vivek Raj](https://www.linkedin.com/in/) ← *add your LinkedIn profile URL here*
+- 🌐 **Organization:** [Maincrafts Technology](https://maincrafts.com)
+- 💼 **LinkedIn:** [Vivek Raj](www.linkedin.com/in/unknownx45) ← *add your LinkedIn profile URL here*
 
 ---
 
 > *This project was completed as part of a structured internship program. All research is based on publicly available threat intelligence data and cited industry reports.*
+
